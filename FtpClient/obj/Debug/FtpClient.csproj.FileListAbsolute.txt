@@ -1,0 +1,16 @@
+C:\Users\Hitesh-PC\documents\visual studio 2013\Projects\FtpClient\FtpClient\bin\Debug\FtpClient.dll
+C:\Users\Hitesh-PC\documents\visual studio 2013\Projects\FtpClient\FtpClient\bin\Debug\FtpClient.pdb
+C:\Users\Hitesh-PC\documents\visual studio 2013\Projects\FtpClient\FtpClient\obj\Debug\FtpClient.dll
+C:\Users\Hitesh-PC\documents\visual studio 2013\Projects\FtpClient\FtpClient\obj\Debug\FtpClient.pdb
+C:\Users\Hitesh-PC\documents\visual studio 2013\Projects\FtpClient\FtpClient\obj\Debug\FtpClient.csprojResolveAssemblyReference.cache
+E:\Vinay Sir\FTP DLL Projet\FtpClient\FtpClient\bin\Debug\FtpClient.dll
+E:\Vinay Sir\FTP DLL Projet\FtpClient\FtpClient\bin\Debug\FtpClient.pdb
+E:\Vinay Sir\FTP DLL Projet\FtpClient\FtpClient\obj\Debug\FtpClient.dll
+E:\Vinay Sir\FTP DLL Projet\FtpClient\FtpClient\obj\Debug\FtpClient.pdb
+E:\Vinay Sir\FTP DLL Projet\FtpClient\FtpClient\obj\Debug\FtpClient.csprojResolveAssemblyReference.cache
+E:\2020 Back up\Projet aaaaa\FTP DLL Projet\FtpClient\FtpClient\bin\Debug\FtpClient.dll
+E:\2020 Back up\Projet aaaaa\FTP DLL Projet\FtpClient\FtpClient\bin\Debug\FtpClient.pdb
+E:\2020 Back up\Projet aaaaa\FTP DLL Projet\FtpClient\FtpClient\obj\Debug\FtpClient.csprojAssemblyReference.cache
+E:\2020 Back up\Projet aaaaa\FTP DLL Projet\FtpClient\FtpClient\obj\Debug\FtpClient.csproj.CoreCompileInputs.cache
+E:\2020 Back up\Projet aaaaa\FTP DLL Projet\FtpClient\FtpClient\obj\Debug\FtpClient.dll
+E:\2020 Back up\Projet aaaaa\FTP DLL Projet\FtpClient\FtpClient\obj\Debug\FtpClient.pdb
